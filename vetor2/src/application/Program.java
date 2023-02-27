@@ -31,8 +31,6 @@ public class Program {
 		
 		System.out.printf("AVERAGE PRICE = %.2f%n", avg);
 		
-		
-		
 		sc.close();
 	}
 
